@@ -1,0 +1,13 @@
+{
+  "itemGroup.simplysnakes": "Example Mod Tab",
+  "block.simplysnakes.example_block": "Example Block",
+  "item.simplysnakes.example_item": "Example Item",
+
+  "simplysnakes.configuration.title": "SimplySnakes Configs",
+  "simplysnakes.configuration.section.simplysnakes.common.toml": "SimplySnakes Configs",
+  "simplysnakes.configuration.section.simplysnakes.common.toml.title": "SimplySnakes Configs",
+  "simplysnakes.configuration.items": "Item List",
+  "simplysnakes.configuration.logDirtBlock": "Log Dirt Block",
+  "simplysnakes.configuration.magicNumberIntroduction": "Magic Number Text",
+  "simplysnakes.configuration.magicNumber": "Magic Number"
+}

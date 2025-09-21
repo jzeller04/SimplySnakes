@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.jzells.simplysnakes;
 
 import java.util.List;
 import java.util.Set;
